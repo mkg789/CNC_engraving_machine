@@ -17,4 +17,5 @@ To control the CNC engraving machine we used software called Universal G-Code Se
   stepper motor couplers,
   linear bearings,
   Motor holders,
+  ER-11 Chuck(if not available use drill chuck)
   Wood for the frame of CNC.
